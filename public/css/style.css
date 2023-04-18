@@ -112,6 +112,13 @@ h2 {
     color: var(--lighter);
     margin-bottom: 3px;
 }
+.error{
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
 
 footer {
     border-top: 1px solid var(--lighter);
