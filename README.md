@@ -1,4 +1,4 @@
-# nodets-canil
+# Petshop Dev
 Projeto feito no módulo do curso Node + Typescript
 
 ### Pré-requisito globais:
@@ -9,3 +9,7 @@ Projeto feito no módulo do curso Node + Typescript
 
 ### Para rodar o projeto
 `npm run start:dev`
+
+<hr>
+Segue o projeto em produção:
+<a href="https://petdevshop.up.railway.app/">PetShop Dev </a>
